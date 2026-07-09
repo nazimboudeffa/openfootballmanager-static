@@ -1,4 +1,4 @@
-# ⚽ Retro Football Manager v2
+# ⚽ Open Football Manager
 
 A nostalgic single-player football/soccer management simulation game inspired by classic titles like **FIFA 2000 Manager** and **Premier Manager** for PS1. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies, just pure retro gaming vibes.
 
