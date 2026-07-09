@@ -69,7 +69,7 @@ function saveGame() {
     
     const a = document.createElement('a');
     a.href = url;
-    a.download = `rfm-save-s${gameState.season}r${gameState.round}.json`;
+    a.download = `openfootballmanager-save-s${gameState.season}r${gameState.round}.json`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
