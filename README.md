@@ -2,7 +2,11 @@
 
 A nostalgic single-player football/soccer management simulation game inspired by classic titles like **FIFA 2000 Manager** and **Premier Manager** for PS1. Built with vanilla HTML, CSS, and JavaScript — no frameworks, no dependencies, just pure retro gaming vibes.
 
-![Retro Football Manager](https://img.shields.io/badge/version-2.0-green) ![License](https://img.shields.io/badge/license-MIT-blue) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+## Original Repository
+
+https://github.com/FredericusRadicalus/retroFootballManager
 
 ## 🎮 Features
 
