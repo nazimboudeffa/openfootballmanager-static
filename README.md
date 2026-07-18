@@ -119,7 +119,7 @@ football-manager-v2/
 
 Games are saved as JSON files with the naming format:
 ```
-rfm-save-s{season}r{round}.json
+save-s{season}r{round}.json
 ```
 
 Save files include complete game state and can be loaded at any time.
